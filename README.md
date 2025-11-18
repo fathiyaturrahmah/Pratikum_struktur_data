@@ -1,1 +1,0 @@
-# Pratikum_struktur_data
